@@ -1,1 +1,2 @@
-# hi 
+# Admin has the power
+---
